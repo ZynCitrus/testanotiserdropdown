@@ -1,0 +1,14 @@
+[
+  {
+    "image": "https://synergi-dev.s3.ap-southeast-1.amazonaws.com/profile-pictures/6b9.png",
+    "message": "Lorem ipsum dolor sit amet.",
+    "detailPage": "/events",
+    "receivedTime": "12h ago"
+  },
+  {
+    "image": "https://synergi-dev.s3.ap-southeast-1.amazonaws.com/profile-pictures/abc.png",
+    "message": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "detailPage": "/news",
+    "receivedTime": "1d ago"
+  }
+]

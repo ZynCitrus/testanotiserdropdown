@@ -1,0 +1,20 @@
+.notificationDiv {
+    max-width: 250px;
+    height: 400px;
+}
+
+.notificationsCard {
+    background-color: grey;
+    min-height: 200px;
+    :button {
+        bottom: 0;
+    }
+}
+
+.notificationsCard:hover {
+    background-color: green;
+}
+
+.hidden {
+    display: none;
+}
